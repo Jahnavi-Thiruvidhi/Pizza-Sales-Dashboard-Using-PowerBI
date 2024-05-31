@@ -80,7 +80,7 @@ This project focuses on analyzing pizza sales data to extract insights and trend
 Below are screenshots of the pizza sales dashboard created in Power BI. These visuals serve as an example of how the analysis can be presented effectively.
 
 #### Home Page Dashboard:
-<img src
+<img src = "https://github.com/Jahnavi-Thiruvidhi/Pizza-Sales-Dashboard-Using-PowerBI/blob/main/pizza%20sales%20Home%20Page%20dashboard.png?raw=true">
 
 #### Best/Worst Sellers Dashboard:
 ![Best/Worst Sellers Dashboard](mnt/data/pizza%20sales%20Dashboard.png)
