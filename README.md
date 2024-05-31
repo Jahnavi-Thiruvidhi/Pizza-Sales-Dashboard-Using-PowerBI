@@ -83,6 +83,6 @@ Below are screenshots of the pizza sales dashboard created in Power BI. These vi
 <img src = "https://github.com/Jahnavi-Thiruvidhi/Pizza-Sales-Dashboard-Using-PowerBI/blob/main/pizza%20sales%20Home%20Page%20dashboard.png?raw=true">
 
 #### Best/Worst Sellers Dashboard:
-![Best/Worst Sellers Dashboard](mnt/data/pizza%20sales%20Dashboard.png)
+<img src = "https://github.com/Jahnavi-Thiruvidhi/Pizza-Sales-Dashboard-Using-PowerBI/blob/main/pizza%20sales%20Best%20(or)%20Worst%20Dashboard.png?raw=true">
 
 These elements can be customized and applied to various datasets to extract and visualize valuable business insights.
