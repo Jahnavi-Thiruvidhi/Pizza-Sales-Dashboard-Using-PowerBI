@@ -1,5 +1,5 @@
 # Pizza Sales Data Analysis and Visualization
-### Project Overview: Pizza Sales Data Analysis and Visualization
+### Project Overview: 
 
 This project focuses on analyzing pizza sales data to extract insights and trends using data analysis and visualization techniques. The main purpose of this analysis is to understand the total number of pizzas sold, identify sales trends by month and weekday, and calculate average orders per day. The analysis was conducted using Power BI and MS SQL Server.
 
@@ -80,7 +80,7 @@ This project focuses on analyzing pizza sales data to extract insights and trend
 Below are screenshots of the pizza sales dashboard created in Power BI. These visuals serve as an example of how the analysis can be presented effectively.
 
 #### Home Page Dashboard:
-![Home Page Dashboard](mnt/data/pizza%20sales%20Home%20Page%20dashboard.png)
+<img src
 
 #### Best/Worst Sellers Dashboard:
 ![Best/Worst Sellers Dashboard](mnt/data/pizza%20sales%20Dashboard.png)
